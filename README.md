@@ -1,4 +1,4 @@
-##Predicting NYSE Stock Prices
+## Predicting NYSE Stock Prices
 
 Project description
 
